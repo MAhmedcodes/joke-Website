@@ -1,0 +1,4 @@
+Flask
+pyjokes
+requests
+gunicorn
